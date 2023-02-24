@@ -50,6 +50,7 @@ public class Main extends Helper{
                 }
                 // I still need to add [view / edit / remove] methods to other classes like below
                 // new Building(0) this construct 0 mean for methods [view / edit / remove]
+                // new update, now I move instead of empty construct its now on helper
                 case 5 -> {
                     System.out.println("--view Building Info--");
                     helper.viewBuildingInfo();
