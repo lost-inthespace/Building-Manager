@@ -8,9 +8,10 @@ This is mostly back end app for a rent manager built using Java. application is 
 
 ## next features
 
-- create proper user interface
-- link it to a data base
 - add as many want building
+- create proper user interface
+- link it to a data base or server to store data
+- create a encryption to encrypt the data in server
 
 ## Code content
 
